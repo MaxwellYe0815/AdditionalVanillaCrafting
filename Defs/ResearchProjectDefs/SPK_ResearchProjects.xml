@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Add research tab for people not using a mod-->
+	<ResearchTabDef>
+		<defName>SPK_ResearchTab</defName>
+		<label>SpookieWookie</label>
+	</ResearchTabDef>
+
+<!-- Industrial research -->
+	<ResearchProjectDef>
+		<defName>SPK_MakeSynthread_Research</defName>
+		<label>Synthread weaving</label>
+		<description>Learn the process of weaving cloth molecules into a complex lattice structure to make the lightweight textile; synthread.</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+			<li>Fabrication</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+		  <li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<researchViewX>0</researchViewX>
+		<researchViewY>0</researchViewY>
+		<tab>SPK_ResearchTab</tab>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>SPK_MakeHyperweave_Research</defName>
+		<label>Hyperweave weaving</label>
+		<description>Learn the complicated process of molecular bonding to combine devilstrand and plasteel into the ultimate textile.</description>
+		<baseCost>4000</baseCost>
+		<techLevel>Ultra</techLevel>
+		<prerequisites>
+			<li>Devilstrand</li>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+		  <li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<researchViewX>2.5</researchViewX>
+		<researchViewY>0</researchViewY>
+		<tab>SPK_ResearchTab</tab>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>SPK_MakePlasteel_Research</defName>
+		<label>Plasteel refining</label>
+		<description>Learn the process of molecular restructuring to refine steel and chemfuel into plasteel.</description>
+		<baseCost>4000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+		  <li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<researchViewX>5</researchViewX>
+		<researchViewY>0</researchViewY>
+		<tab>SPK_ResearchTab</tab>
+	</ResearchProjectDef>
+
+<!-- Medical research-->
+	<ResearchProjectDef>
+		<defName>SPK_MakeNeutroamine_Research</defName>
+		<label>Neutroamine synthesis</label>
+		<description>Learn how to synthesise neutroamine, a useful chemical for further medicine production</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>PsychiteRefining</li>
+			<li>MedicineProduction</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<researchViewX>0</researchViewX>
+		<researchViewY>4</researchViewY>
+		<tab>SPK_ResearchTab</tab>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>SPK_MakeLuciferium_Research</defName>
+		<label>Luciferium synthesis</label>
+		<description>Learn how to synthesise luciferium. Used in advanced medicine production, but also a dangerous yet useful drug on it's own.</description>
+		<baseCost>4000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+			<li>SPK_MakeNeutroamine_Research</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+		  <li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<researchViewX>2.5</researchViewX>
+		<researchViewY>4</researchViewY>
+		<tab>SPK_ResearchTab</tab>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>SPK_MakeGlitterMed_Research</defName>
+		<label>Glitterworld medicine production</label>
+		<description>Learn how to produce the most advanced form of any known medicine.</description>
+		<baseCost>6000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+			<li>SPK_MakeLuciferium_Research</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+		  <li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<researchViewX>5</researchViewX>
+		<researchViewY>4</researchViewY>
+		<tab>SPK_ResearchTab</tab>
+	</ResearchProjectDef>
+
+</Defs>

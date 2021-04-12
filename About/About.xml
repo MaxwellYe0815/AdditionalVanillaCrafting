@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>[SPK] Additional Vanilla Crafting</name>
+		<author>SpookieWookie</author>
+		<packageId>SpookieWookie.AdditionalVanillaCrafting</packageId>
+  		<supportedVersions>    		
+			<li>1.1</li>
+			<li>1.2</li>
+  		</supportedVersions>
+		<description>Simple mod that adds the ability to produce some trader only materials in a vanilla friendly manner, no additonal workbenches just basic recipes and research.
+
+
+&lt;b&gt;Additional Vanilla Crafting&lt;/b&gt;
+Currently adds the ability to craft synthread, hyperweave, plasteel, neutroamine, luciferium and glitterworld medicine. Balance is open to suggestions, but I think I've struck a reasonable balance for most of these. I still find quests and traders important for keeping things topped up in late game and for getting an early footing before you get to the research projects. I took some creative liberties with the recipes and dependancies for a lot of these things to keep them as vanilla as possible.
+
+Synthread
+-Created at a fabrication bench.
+-Requires only cloth and a crafting skill of 8.
+-Made to be a straight upgrade from cloth for the late game, useful if producing devilstrand is difficult or if you just fancy a different colour since the stats of both are very close.
+-30 cloth produces 10 synthread. Research dependancy: fabrication. Research cost: 2000.
+-Production is very slow to balance with ease of materials
+
+Hyperweave
+-Created at a fabrication bench.
+-Requires devilstrand, plasteel and a crafting skill of 10.
+-Hyperweave is an incredibly complex material and requires the advanced tools and precision afforded by the fabrication bench.
+-20 devilstrand + 10 plasteel produces 10 hyperweave. Research dependancies: devilstrand and advanced fabrication. Research cost: 4000.
+-Faster to produce than synthread but less accessible materials.
+
+Plasteel
+-Created at a fabrication bench.
+-Requires steel, chemfuel and a crafting skill of 10.
+-Production is relatively quick (compared to some other mods) but advanced fabrication requirement does raise the barrier for entry.
+-50 steel + 20 chemfuel produces 40 plasteel. Research depandancy: fabrication. Research cost: 4000.
+-Not too difficult to produce overall, but steel can be difficult to keep topped up late game and renewable chemfuel does require a decent cattle of boom-animals.
+
+
+Medical stuff all requires intellectual skill because the vanilla medicine requires it. Yell at Tynan, not me.
+
+Neutroamine
+-Created at a drug lab.
+-Requires psychoid leaves, herbal medicine and an intellectual skill of 8.
+-5 psychoid leaves + 1 herbal medicine produces 1 neutroamine. Research dependancies: psychite refining and medicine production. Research cost: 2000.
+-Also includes a vanilla style x4 bulk recipe.
+
+Luciferium
+-Created at a drug lab
+-Requires psychoid leaves, neutroamine, plasteel, 1 advanced component and an intellectual skill of 10.
+-This took a little thought. The advanced component represents the mechanite portion of luciferium. This is traded off by being a bulk recipe by default.
+-20 psychoid leaves + 10 neutroamine + 2 plasteel + 1 advanced component produces 10 luciferium. Research dependancy: neutroamine synthesis (added by this mod). Research cost: 4000.
+-No bulk recipe as it is bulk by default.
+
+Glitterworld Medicine
+-Created at a drug lab
+-Requires medicine, neutroamine and luciferium and an intellectual skill of 12.
+-Gives luciferium an additional purpose over just being 'the devil's bargain'
+-5 neutroamine + 1 medicine + 1 luciferium produces 1 glitterworld medicine. Research dependancy: luciferium synthesis (added by this mod). Research cost: 6000.
+-Also has a vanilla style x4 bulk recipe
+
+&lt;b&gt;Compatability&lt;/b&gt;
+There shouldn't be any problems as it is a very simple XML mod.
+
+&lt;b&gt;Changelog&lt;/b&gt;
+15-08-2020:
+Verified compatible with update 1.2, if there's any issues let me know I - I may have missed something!
+
+10-06-2020:
+Added neutroamine, luciferium and glitterworld medicine. Also added a manifest.xml so that a version number appears with the mod manager mod.
+
+09-06-2020:
+Added plasteel crafting
+Reworked synthread crafting thanks to some glaring balance issues that Xurker pointed out. Thanks Xurker!
+
+07-06-2020:
+Initial release
+
+&lt;b&gt;Extra Stuff&lt;/b&gt;
+Thanks to Oskar Potocki for his stunning Vanilla Textures Expanded, I used his textures for the icons in this mods thumbnail. His mods are absolutely fantastic and you should check out all of them!
+
+		</description>
+	</ModMetaData>
