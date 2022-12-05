@@ -45,7 +45,7 @@
 		<recipeUsers>
 			<li>FabricationBench</li>
 		</recipeUsers>
-		<label>Make hyperwave</label>
+		<label>Make hyperweave</label>
 		<description>Weave hyperweave by bonding the molecules of devilstrand and plasteel into the ultimate textile.\n\nProduces 10 Hyperweave.</description>
 		<jobString>Making hyperweave.</jobString>
 		<workAmount>1000</workAmount>
