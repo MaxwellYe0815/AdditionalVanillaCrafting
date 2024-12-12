@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Make synthread -->
+	<SPK_MakeSynthread.label>Make synthread</SPK_MakeSynthread.label>
+	<!-- EN: Weave synthread by working cloth into a complex lattice molecular structure.\n\nProduces 10 Synthread. -->
+	<SPK_MakeSynthread.description>Weave synthread by working cloth into a complex lattice molecular structure.\n\nProduces 10 Synthread.</SPK_MakeSynthread.description>
+	<!-- EN: Making synthread. -->
+	<SPK_MakeSynthread.jobString>Making synthread.</SPK_MakeSynthread.jobString>
+	<!-- EN: Make hyperweave -->
+	<SPK_MakeHyperweave.label>Make hyperweave</SPK_MakeHyperweave.label>
+	<!-- EN: Weave hyperweave by bonding the molecules of devilstrand and plasteel into the ultimate textile.\n\nProduces 10 Hyperweave. -->
+	<SPK_MakeHyperweave.description>Weave hyperweave by bonding the molecules of devilstrand and plasteel into the ultimate textile.\n\nProduces 10 Hyperweave.</SPK_MakeHyperweave.description>
+	<!-- EN: Making hyperweave. -->
+	<SPK_MakeHyperweave.jobString>Making hyperweave.</SPK_MakeHyperweave.jobString>
+	<!-- EN: Make plasteel -->
+	<SPK_MakePlasteel.label>Make plasteel</SPK_MakePlasteel.label>
+	<!-- EN: Refine plasteel using steel and chemfuel.\n\nProduces 40 Plasteel. -->
+	<SPK_MakePlasteel.description>Refine plasteel using steel and chemfuel.\n\nProduces 40 Plasteel.</SPK_MakePlasteel.description>
+	<!-- EN: Making plasteel. -->
+	<SPK_MakePlasteel.jobString>Making plasteel.</SPK_MakePlasteel.jobString>
+	<!-- EN: Make neutroamine -->
+	<SPK_MakeNeutroamine.label>Make neutroamine</SPK_MakeNeutroamine.label>
+	<!-- EN: Synthesise neutroamine using herbal medicine and psychoid leaves. -->
+	<SPK_MakeNeutroamine.description>Synthesise neutroamine using herbal medicine and psychoid leaves.</SPK_MakeNeutroamine.description>
+	<!-- EN: Make neutroamine x4 -->
+	<SPK_MakeNeutroamineBulk.label>Make neutroamine x4</SPK_MakeNeutroamineBulk.label>
+	<!-- EN: Synthesise neutroamine using herbal medicine and psychoid leaves. -->
+	<SPK_MakeNeutroamineBulk.description>Synthesise neutroamine using herbal medicine and psychoid leaves.</SPK_MakeNeutroamineBulk.description>
+	<!-- EN: Making neutroamine x4. -->
+	<SPK_MakeNeutroamineBulk.jobString>Making neutroamine x4.</SPK_MakeNeutroamineBulk.jobString>
+	<!-- EN: Make luciferium -->
+	<SPK_MakeLuciferium.label>Make luciferium</SPK_MakeLuciferium.label>
+	<!-- EN: Create luciferium using neutroamine, psychoid leaves, plasteel and an advanced component.\n\n Produces 10 luciferium -->
+	<SPK_MakeLuciferium.description>Create luciferium using neutroamine, psychoid leaves, plasteel and an advanced component.\n\n Produces 10 luciferium</SPK_MakeLuciferium.description>
+	<!-- EN: Making luciferium. -->
+	<SPK_MakeLuciferium.jobString>Making luciferium.</SPK_MakeLuciferium.jobString>
+	<!-- EN: Make glitterworld medicine -->
+	<SPK_MakeGlitterMed.label>Make glitterworld medicine</SPK_MakeGlitterMed.label>
+	<!-- EN: Create the best form of medicine typically found only on glitterworlds. -->
+	<SPK_MakeGlitterMed.description>Create the best form of medicine typically found only on glitterworlds.</SPK_MakeGlitterMed.description>
+	<!-- EN: Making glitterworld medicine. -->
+	<SPK_MakeGlitterMed.jobString>Making glitterworld medicine.</SPK_MakeGlitterMed.jobString>
+	<!-- EN: Make glitterworld medicine x4 -->
+	<SPK_MakeGlitterMedBulk.label>Make glitterworld medicine x4</SPK_MakeGlitterMedBulk.label>
+	<!-- EN: Create the best form of medicine typically found only on glitterworlds. -->
+	<SPK_MakeGlitterMedBulk.description>Create the best form of medicine typically found only on glitterworlds.</SPK_MakeGlitterMedBulk.description>
+	<!-- EN: Making glitterworld medicine x4. -->
+	<SPK_MakeGlitterMedBulk.jobString>Making glitterworld medicine x4.</SPK_MakeGlitterMedBulk.jobString>
+
+</LanguageData>	
+

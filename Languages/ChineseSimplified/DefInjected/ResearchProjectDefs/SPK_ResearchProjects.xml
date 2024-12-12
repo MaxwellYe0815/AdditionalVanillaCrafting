@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: SpookieWookie -->
+	<SPK_ResearchTab.label>SpookieWookie</SPK_ResearchTab.label>
+	<!-- EN: Synthread weaving -->
+	<SPK_MakeSynthread_Research.label>Synthread weaving</SPK_MakeSynthread_Research.label>
+	<!-- EN: Learn the process of weaving cloth molecules into a complex lattice structure to make the lightweight textile; synthread. -->
+	<SPK_MakeSynthread_Research.description>Learn the process of weaving cloth molecules into a complex lattice structure to make the lightweight textile; synthread.</SPK_MakeSynthread_Research.description>
+	<!-- EN: Hyperweave weaving -->
+	<SPK_MakeHyperweave_Research.label>Hyperweave weaving</SPK_MakeHyperweave_Research.label>
+	<!-- EN: Learn the complicated process of molecular bonding to combine devilstrand and plasteel into the ultimate textile. -->
+	<SPK_MakeHyperweave_Research.description>Learn the complicated process of molecular bonding to combine devilstrand and plasteel into the ultimate textile.</SPK_MakeHyperweave_Research.description>
+	<!-- EN: Plasteel refining -->
+	<SPK_MakePlasteel_Research.label>Plasteel refining</SPK_MakePlasteel_Research.label>
+	<!-- EN: Learn the process of molecular restructuring to refine steel and chemfuel into plasteel. -->
+	<SPK_MakePlasteel_Research.description>Learn the process of molecular restructuring to refine steel and chemfuel into plasteel.</SPK_MakePlasteel_Research.description>
+	<!-- EN: Neutroamine synthesis -->
+	<SPK_MakeNeutroamine_Research.label>Neutroamine synthesis</SPK_MakeNeutroamine_Research.label>
+	<!-- EN: Learn how to synthesise neutroamine, a useful chemical for further medicine production -->
+	<SPK_MakeNeutroamine_Research.description>Learn how to synthesise neutroamine, a useful chemical for further medicine production</SPK_MakeNeutroamine_Research.description>
+	<!-- EN: Luciferium synthesis -->
+	<SPK_MakeLuciferium_Research.label>Luciferium synthesis</SPK_MakeLuciferium_Research.label>
+	<!-- EN: Learn how to synthesise luciferium. Used in advanced medicine production, but also a dangerous yet useful drug on it's own. -->
+	<SPK_MakeLuciferium_Research.description>Learn how to synthesise luciferium. Used in advanced medicine production, but also a dangerous yet useful drug on it's own.</SPK_MakeLuciferium_Research.description>
+	<!-- EN: Glitterworld medicine production -->
+	<SPK_MakeGlitterMed_Research.label>Glitterworld medicine production</SPK_MakeGlitterMed_Research.label>
+	<!-- EN: Learn how to produce the most advanced form of any known medicine. -->
+	<SPK_MakeGlitterMed_Research.description>Learn how to produce the most advanced form of any known medicine.</SPK_MakeGlitterMed_Research.description>
+
+
+</LanguageData>
