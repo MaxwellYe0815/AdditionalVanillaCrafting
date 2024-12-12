@@ -45,7 +45,7 @@
 	<!-- EN: Make glitterworld medicine x4 -->
 	<SPK_MakeGlitterMedBulk.label>制作闪耀世界医药 x4</SPK_MakeGlitterMedBulk.label>
 	<!-- EN: Create the best form of medicine typically found only on glitterworlds. -->
-	<SPK_MakeGlitterMedBulk.description>制作通常只在闪耀世界才能找到的最佳形式的药物。</SPK_MakeGlitterMedBulk.description>
+	<SPK_MakeGlitterMedBulk.description>制作通常只在闪耀世界才能找到的最佳药物形式。</SPK_MakeGlitterMedBulk.description>
 	<!-- EN: Making glitterworld medicine x4. -->
 	<SPK_MakeGlitterMedBulk.jobString>正在制作闪耀世界医药 x4。</SPK_MakeGlitterMedBulk.jobString>
 
