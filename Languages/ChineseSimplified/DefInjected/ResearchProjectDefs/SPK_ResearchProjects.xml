@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- EN: SpookieWookie -->
-	<SPK_ResearchTab.label>SpookieWookie</SPK_ResearchTab.label>
 	<!-- EN: Synthread weaving -->
 	<SPK_MakeSynthread_Research.label>合成纤维编制</SPK_MakeSynthread_Research.label>
 	<!-- EN: Learn the process of weaving cloth molecules into a complex lattice structure to make the lightweight textile; synthread. -->

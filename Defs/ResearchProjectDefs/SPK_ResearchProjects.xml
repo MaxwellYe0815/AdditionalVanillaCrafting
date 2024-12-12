@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-<!-- Add research tab for people not using a mod-->
-	<ResearchTabDef>
-		<defName>SPK_ResearchTab</defName>
-		<label>SpookieWookie</label>
-	</ResearchTabDef>
-
 <!-- Industrial research -->
 	<ResearchProjectDef>
 		<defName>SPK_MakeSynthread_Research</defName>
@@ -21,9 +15,8 @@
 		<requiredResearchFacilities>
 		  <li>MultiAnalyzer</li>
 		</requiredResearchFacilities>
-		<researchViewX>0</researchViewX>
-		<researchViewY>0</researchViewY>
-		<tab>SPK_ResearchTab</tab>
+		<researchViewX>15</researchViewX>
+		<researchViewY>1.5</researchViewY>
 	</ResearchProjectDef>
 
 	<ResearchProjectDef>
@@ -33,16 +26,17 @@
 		<baseCost>4000</baseCost>
 		<techLevel>Ultra</techLevel>
 		<prerequisites>
-			<li>Devilstrand</li>
 			<li>AdvancedFabrication</li>
 		</prerequisites>
+		<hiddenPrerequisites>
+      		<li>Devilstrand</li>
+    	</hiddenPrerequisites>
 		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
 		<requiredResearchFacilities>
 		  <li>MultiAnalyzer</li>
 		</requiredResearchFacilities>
-		<researchViewX>2.5</researchViewX>
-		<researchViewY>0</researchViewY>
-		<tab>SPK_ResearchTab</tab>
+		<researchViewX>17</researchViewX>
+		<researchViewY>0.8</researchViewY>
 	</ResearchProjectDef>
 
 	<ResearchProjectDef>
@@ -58,9 +52,8 @@
 		<requiredResearchFacilities>
 		  <li>MultiAnalyzer</li>
 		</requiredResearchFacilities>
-		<researchViewX>5</researchViewX>
-		<researchViewY>0</researchViewY>
-		<tab>SPK_ResearchTab</tab>
+		<researchViewX>17</researchViewX>
+		<researchViewY>1.5</researchViewY>
 	</ResearchProjectDef>
 
 <!-- Medical research-->
@@ -71,13 +64,14 @@
 		<baseCost>2000</baseCost>
 		<techLevel>Industrial</techLevel>
 		<prerequisites>
-			<li>PsychiteRefining</li>
 			<li>MedicineProduction</li>
 		</prerequisites>
+		<hiddenPrerequisites>
+      		<li>PsychiteRefining</li>
+    	</hiddenPrerequisites>
 		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
-		<researchViewX>0</researchViewX>
-		<researchViewY>4</researchViewY>
-		<tab>SPK_ResearchTab</tab>
+		<researchViewX>12</researchViewX>
+		<researchViewY>0</researchViewY>
 	</ResearchProjectDef>
 	
 	<ResearchProjectDef>
@@ -93,9 +87,8 @@
 		<requiredResearchFacilities>
 		  <li>MultiAnalyzer</li>
 		</requiredResearchFacilities>
-		<researchViewX>2.5</researchViewX>
-		<researchViewY>4</researchViewY>
-		<tab>SPK_ResearchTab</tab>
+		<researchViewX>13</researchViewX>
+		<researchViewY>0</researchViewY>
 	</ResearchProjectDef>
 	
 	<ResearchProjectDef>
@@ -111,9 +104,8 @@
 		<requiredResearchFacilities>
 		  <li>MultiAnalyzer</li>
 		</requiredResearchFacilities>
-		<researchViewX>5</researchViewX>
-		<researchViewY>4</researchViewY>
-		<tab>SPK_ResearchTab</tab>
+		<researchViewX>14</researchViewX>
+		<researchViewY>0</researchViewY>
 	</ResearchProjectDef>
 
 </Defs>
