@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<ModMetaData>
-		<name>[SPK] Additional Vanilla Crafting</name>
-		<author>SpookieWookie</author>
-		<packageId>SpookieWookie.AdditionalVanillaCrafting</packageId>
+		<name>Additional Vanilla Crafting(Continued)</name>
+		<author>飘寂叶</author>
+		<packageId>MaxwellYe.AdditionalVanillaCraftingContinued</packageId>
   		<supportedVersions>    		
 			<li>1.1</li>
 			<li>1.2</li>
@@ -64,7 +64,7 @@ Glitterworld Medicine
 There shouldn't be any problems as it is a very simple XML mod.
 
 &lt;b&gt;Changelog&lt;/b&gt;
-03-12-2022:
+13-12-2024:
 Added compatability for 1.5. Added localization support for Simplified Chinese and Traditional Chinese.
 
 05-12-2022:
