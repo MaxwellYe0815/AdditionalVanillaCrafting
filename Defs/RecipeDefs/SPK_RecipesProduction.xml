@@ -9,7 +9,7 @@
 			<li>FabricationBench</li>
 		</recipeUsers>
 		<label>Make synthread</label>
-		<description>Weave synthread by working cloth into a complex lattice molecular structure.\n\nProduces 10 Synthread.</description>
+		<description>Weave synthread by working cloth into a complex lattice molecular structure.</description>
 		<jobString>Making synthread.</jobString>
 		<workAmount>3000</workAmount>
 		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
@@ -46,7 +46,7 @@
 			<li>FabricationBench</li>
 		</recipeUsers>
 		<label>Make hyperweave</label>
-		<description>Weave hyperweave by bonding the molecules of devilstrand and plasteel into the ultimate textile.\n\nProduces 10 Hyperweave.</description>
+		<description>Weave hyperweave by bonding the molecules of devilstrand and plasteel into the ultimate textile.</description>
 		<jobString>Making hyperweave.</jobString>
 		<workAmount>1000</workAmount>
 		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
@@ -92,7 +92,7 @@
 			<li>FabricationBench</li>
 		</recipeUsers>
 		<label>Make plasteel</label>
-		<description>Refine plasteel using steel and chemfuel.\n\nProduces 40 Plasteel.</description>
+		<description>Refine plasteel using steel and chemfuel.</description>
 		<jobString>Making plasteel.</jobString>
 		<workAmount>2000</workAmount>
 		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
@@ -231,7 +231,7 @@
 			<li>DrugLab</li>
 		</recipeUsers>
 		<label>Make luciferium</label>
-		<description>Create luciferium using neutroamine, psychoid leaves, plasteel and an advanced component.\n\n Produces 10 luciferium</description>
+		<description>Create luciferium using neutroamine, psychoid leaves, plasteel and an advanced component.</description>
 		<jobString>Making luciferium.</jobString>
 		<workAmount>4000</workAmount>
 		<workSpeedStat>DrugSynthesisSpeed</workSpeedStat>
