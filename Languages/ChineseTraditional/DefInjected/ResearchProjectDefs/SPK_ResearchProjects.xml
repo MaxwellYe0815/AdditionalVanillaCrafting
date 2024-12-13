@@ -2,29 +2,29 @@
 <LanguageData>
 
 	<!-- EN: Synthread weaving -->
-	<SPK_MakeSynthread_Research.label>合成纤维编制</SPK_MakeSynthread_Research.label>
+	<SPK_MakeSynthread_Research.label>合成纖維編制</SPK_MakeSynthread_Research.label>
 	<!-- EN: Learn the process of weaving cloth molecules into a complex lattice structure to make the lightweight textile; synthread. -->
-	<SPK_MakeSynthread_Research.description>学习将布料分子编织成复杂晶格结构的工艺，从而制成轻质纺织品：合成纤维。</SPK_MakeSynthread_Research.description>
+	<SPK_MakeSynthread_Research.description>學習將布料分子編織成複雜晶格結構的工藝，從而製成輕質紡織品：合成纖維。</SPK_MakeSynthread_Research.description>
 	<!-- EN: Hyperweave weaving -->
-	<SPK_MakeHyperweave_Research.label>超級布料编制</SPK_MakeHyperweave_Research.label>
+	<SPK_MakeHyperweave_Research.label>超級布料編制</SPK_MakeHyperweave_Research.label>
 	<!-- EN: Learn the complicated process of molecular bonding to combine devilstrand and plasteel into the ultimate textile. -->
-	<SPK_MakeHyperweave_Research.description>学习分子结合的复杂工艺，将魔菇布和塑鋼的结合成终极纺织品。</SPK_MakeHyperweave_Research.description>
+	<SPK_MakeHyperweave_Research.description>學習分子結合的複雜工藝，將魔鬼布料和塑鋼的結合成終極紡織品。</SPK_MakeHyperweave_Research.description>
 	<!-- EN: Plasteel refining -->
-	<SPK_MakePlasteel_Research.label>塑鋼精炼</SPK_MakePlasteel_Research.label>
+	<SPK_MakePlasteel_Research.label>塑鋼精煉</SPK_MakePlasteel_Research.label>
 	<!-- EN: Learn the process of molecular restructuring to refine steel and chemfuel into plasteel. -->
-	<SPK_MakePlasteel_Research.description>学习分子重组的工艺，将钢铁和化合燃料转化为塑鋼。</SPK_MakePlasteel_Research.description>
+	<SPK_MakePlasteel_Research.description>學習分子重組的工藝，將鋼鐵和化合燃料轉化為塑鋼。</SPK_MakePlasteel_Research.description>
 	<!-- EN: Neutroamine synthesis -->
 	<SPK_MakeNeutroamine_Research.label>中性胺合成</SPK_MakeNeutroamine_Research.label>
 	<!-- EN: Learn how to synthesise neutroamine, a useful chemical for further medicine production -->
-	<SPK_MakeNeutroamine_Research.description>学习如何合成中性胺——一种用于生产进一步药品的有用化学品。</SPK_MakeNeutroamine_Research.description>
+	<SPK_MakeNeutroamine_Research.description>學習如何合成中性胺——一種用於生產進一步藥品的有用化學品。</SPK_MakeNeutroamine_Research.description>
 	<!-- EN: Luciferium synthesis -->
 	<SPK_MakeLuciferium_Research.label>路西法強化劑合成</SPK_MakeLuciferium_Research.label>
 	<!-- EN: Learn how to synthesise luciferium. Used in advanced medicine production, but also a dangerous yet useful drug on it's own. -->
-	<SPK_MakeLuciferium_Research.description>学习如何合成路西法強化劑。用于生产高级药品，但本身也是一种危险但有用的药物。</SPK_MakeLuciferium_Research.description>
+	<SPK_MakeLuciferium_Research.description>學習如何合成路西法強化劑。用於生產高級藥品，但本身也是一種危險但有用的藥物。</SPK_MakeLuciferium_Research.description>
 	<!-- EN: Glitterworld medicine production -->
-	<SPK_MakeGlitterMed_Research.label>高科技藥品生产</SPK_MakeGlitterMed_Research.label>
+	<SPK_MakeGlitterMed_Research.label>高科技藥品生產</SPK_MakeGlitterMed_Research.label>
 	<!-- EN: Learn how to produce the most advanced form of any known medicine. -->
-	<SPK_MakeGlitterMed_Research.description>学习如何生产任何已知药物中最先进的药物形式。</SPK_MakeGlitterMed_Research.description>
+	<SPK_MakeGlitterMed_Research.description>學習如何生產任何已知藥物中最先進的藥物形式。</SPK_MakeGlitterMed_Research.description>
 
 
 </LanguageData>

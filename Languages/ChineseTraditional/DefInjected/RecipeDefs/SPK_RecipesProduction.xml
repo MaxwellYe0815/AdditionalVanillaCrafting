@@ -2,52 +2,52 @@
 <LanguageData>
 
 	<!-- Make synthread -->
-	<SPK_MakeSynthread.label>制作合成纤维</SPK_MakeSynthread.label>
+	<SPK_MakeSynthread.label>製作合成纖維</SPK_MakeSynthread.label>
 	<!-- EN: Weave synthread by working cloth into a complex lattice molecular structure. -->
-	<SPK_MakeSynthread.description>将布加工成复杂的晶格分子结构编织出合成纤维。</SPK_MakeSynthread.description>
+	<SPK_MakeSynthread.description>將布加工成複雜的晶格分子結構編織出合成纖維。</SPK_MakeSynthread.description>
 	<!-- EN: Making synthread. -->
-	<SPK_MakeSynthread.jobString>正在制作合成纤维。</SPK_MakeSynthread.jobString>
+	<SPK_MakeSynthread.jobString>正在製作合成纖維。</SPK_MakeSynthread.jobString>
 	<!-- EN: Make hyperweave -->
-	<SPK_MakeHyperweave.label>制作超級布料</SPK_MakeHyperweave.label>
+	<SPK_MakeHyperweave.label>製作超級布料</SPK_MakeHyperweave.label>
 	<!-- EN: Weave hyperweave by bonding the molecules of devilstrand and plasteel into the ultimate textile. -->
-	<SPK_MakeHyperweave.description>将魔菇布和塑鋼的分子结合成终极纺织品，从而编织出超級布料。</SPK_MakeHyperweave.description>
+	<SPK_MakeHyperweave.description>將魔鬼布料和塑鋼的分子結合成終極紡織品，從而編織出超級布料。</SPK_MakeHyperweave.description>
 	<!-- EN: Making hyperweave. -->
-	<SPK_MakeHyperweave.jobString>正在制作超級布料。</SPK_MakeHyperweave.jobString>
+	<SPK_MakeHyperweave.jobString>正在製作超級布料。</SPK_MakeHyperweave.jobString>
 	<!-- EN: Make plasteel -->
-	<SPK_MakePlasteel.label>制作塑鋼</SPK_MakePlasteel.label>
+	<SPK_MakePlasteel.label>製作塑鋼</SPK_MakePlasteel.label>
 	<!-- EN: Refine plasteel using steel and chemfuel. -->
-	<SPK_MakePlasteel.description>使用钢铁和化合燃料提炼塑鋼。</SPK_MakePlasteel.description>
+	<SPK_MakePlasteel.description>使用鋼鐵和化合燃料提煉塑鋼。</SPK_MakePlasteel.description>
 	<!-- EN: Making plasteel. -->
-	<SPK_MakePlasteel.jobString>正在制作塑鋼。</SPK_MakePlasteel.jobString>
+	<SPK_MakePlasteel.jobString>正在製作塑鋼。</SPK_MakePlasteel.jobString>
 	<!-- EN: Make neutroamine -->
-	<SPK_MakeNeutroamine.label>制作中性胺</SPK_MakeNeutroamine.label>
+	<SPK_MakeNeutroamine.label>製作中性胺</SPK_MakeNeutroamine.label>
 	<!-- EN: Synthesise neutroamine using herbal medicine and psychoid leaves. -->
-	<SPK_MakeNeutroamine.description>使用草药和迷幻草合成中性胺。</SPK_MakeNeutroamine.description>
-	<SPK_MakeNeutroamine.jobString>正在制作中性胺。</SPK_MakeNeutroamine.jobString>
+	<SPK_MakeNeutroamine.description>使用草藥和迷幻草合成中性胺。</SPK_MakeNeutroamine.description>
+	<SPK_MakeNeutroamine.jobString>正在製作中性胺。</SPK_MakeNeutroamine.jobString>
 	<!-- EN: Make neutroamine x4 -->
-	<SPK_MakeNeutroamineBulk.label>制作中性胺 x4</SPK_MakeNeutroamineBulk.label>
+	<SPK_MakeNeutroamineBulk.label>製作中性胺 x4</SPK_MakeNeutroamineBulk.label>
 	<!-- EN: Synthesise neutroamine using herbal medicine and psychoid leaves. -->
-	<SPK_MakeNeutroamineBulk.description>使用草药和迷幻草合成中性胺。</SPK_MakeNeutroamineBulk.description>
+	<SPK_MakeNeutroamineBulk.description>使用草藥和迷幻草合成中性胺。</SPK_MakeNeutroamineBulk.description>
 	<!-- EN: Making neutroamine x4. -->
-	<SPK_MakeNeutroamineBulk.jobString>正在制作中性胺 x4。</SPK_MakeNeutroamineBulk.jobString>
+	<SPK_MakeNeutroamineBulk.jobString>正在製作中性胺 x4。</SPK_MakeNeutroamineBulk.jobString>
 	<!-- EN: Make luciferium -->
-	<SPK_MakeLuciferium.label>制作路西法強化劑</SPK_MakeLuciferium.label>
+	<SPK_MakeLuciferium.label>製作路西法強化劑</SPK_MakeLuciferium.label>
 	<!-- EN: Create luciferium using neutroamine, psychoid leaves, plasteel and an advanced component. -->
-	<SPK_MakeLuciferium.description>使用中性胺、迷幻草、塑鋼和高級零件制造路西法強化劑。</SPK_MakeLuciferium.description>
+	<SPK_MakeLuciferium.description>使用中性胺、迷幻草、塑鋼和高級零件製造路西法強化劑。</SPK_MakeLuciferium.description>
 	<!-- EN: Making luciferium. -->
-	<SPK_MakeLuciferium.jobString>正在制作路西法強化劑。</SPK_MakeLuciferium.jobString>
+	<SPK_MakeLuciferium.jobString>正在製作路西法強化劑。</SPK_MakeLuciferium.jobString>
 	<!-- EN: Make glitterworld medicine -->
-	<SPK_MakeGlitterMed.label>制作高科技藥品</SPK_MakeGlitterMed.label>
+	<SPK_MakeGlitterMed.label>製作高科技藥品</SPK_MakeGlitterMed.label>
 	<!-- EN: Create the best form of medicine typically found only on glitterworlds. -->
-	<SPK_MakeGlitterMed.description>制作通常只在闪耀世界才能找到的最佳药物形式。</SPK_MakeGlitterMed.description>
+	<SPK_MakeGlitterMed.description>製作通常只在閃耀世界才能找到的最佳藥物形式。</SPK_MakeGlitterMed.description>
 	<!-- EN: Making glitterworld medicine. -->
-	<SPK_MakeGlitterMed.jobString>正在制作高科技藥品。</SPK_MakeGlitterMed.jobString>
+	<SPK_MakeGlitterMed.jobString>正在製作高科技藥品。</SPK_MakeGlitterMed.jobString>
 	<!-- EN: Make glitterworld medicine x4 -->
-	<SPK_MakeGlitterMedBulk.label>制作高科技藥品 x4</SPK_MakeGlitterMedBulk.label>
+	<SPK_MakeGlitterMedBulk.label>製作高科技藥品 x4</SPK_MakeGlitterMedBulk.label>
 	<!-- EN: Create the best form of medicine typically found only on glitterworlds. -->
-	<SPK_MakeGlitterMedBulk.description>制作通常只在闪耀世界才能找到的最佳药物形式。</SPK_MakeGlitterMedBulk.description>
+	<SPK_MakeGlitterMedBulk.description>製作通常只在閃耀世界才能找到的最佳藥物形式。</SPK_MakeGlitterMedBulk.description>
 	<!-- EN: Making glitterworld medicine x4. -->
-	<SPK_MakeGlitterMedBulk.jobString>正在制作高科技藥品 x4。</SPK_MakeGlitterMedBulk.jobString>
+	<SPK_MakeGlitterMedBulk.jobString>正在製作高科技藥品 x4。</SPK_MakeGlitterMedBulk.jobString>
 
 </LanguageData>	
 
